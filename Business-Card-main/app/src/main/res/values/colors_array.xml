@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="colors">
+        <item>red</item>
+        <item>pink</item>
+        <item>purple</item>
+        <item>blue</item>
+        <item>green</item>
+        <item>yellow</item>
+        <item>orange</item>
+        <item>silver</item>
+    </string-array>
+
+    <string-array name="colors_entries">
+        <item>#F44336</item>
+        <item>#E91E63</item>
+        <item>#9C27B0</item>
+        <item>#2196F3</item>
+        <item>#4CAF50</item>
+        <item>#FFEB3B</item>
+        <item>#FF9800</item>
+        <item>#9E9E9E</item>
+    </string-array>
+</resources>
