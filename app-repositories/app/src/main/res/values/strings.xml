@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">App Repositories</string>
+    <string name="action_search">Pesquisar</string>
+    <string name="start_github_repository">Start github repository</string>
+    <string name="github_character">github character</string>
+    <string name="welcome">Welcome</string>
+</resources>
