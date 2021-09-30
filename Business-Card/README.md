@@ -9,3 +9,7 @@ Oi, sou o Igor! Estou aqui para contribuir com meu conhecimento nesse aplicativo
 
 ## Alterações feitas
 1. Trocado forma de introduzir cor de fundo do cartão de texto para spinner, mostrará para o usuário o nome da cor, mas utilizará o código hexadecimal para alterar a cor.
+<img align="left" width="250" height="500" margin-right="100px" src="https://github.com/yudiaguena/Android-apps/blob/main/Business-Card/screenshot/Screenshot_20210924-171557_Business-Card.jpg">
+<img align="left" width="250" height="500" margin-right="100px" src="https://github.com/yudiaguena/Android-apps/blob/main/Business-Card/screenshot/Screenshot_20210924-171659_Business-Card.jpg">
+<img align="left" width="250" height="500" margin-right="100px" src="https://github.com/yudiaguena/Android-apps/blob/main/Business-Card/screenshot/Screenshot_20210924-171702_Business-Card.jpg">
+<img align="left" width="250" height="500" margin-right="100px" src="https://github.com/yudiaguena/Android-apps/blob/main/Business-Card/screenshot/Screenshot_20210924-171828_Business-Card.jpg">
