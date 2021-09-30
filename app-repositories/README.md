@@ -11,3 +11,7 @@ Crie um App Android para apresentar seu portfólio de projetos do GitHub de mane
 
 ## Alterações feitas
 * Criado tela inicial com activity transition
+<img align="left" width="250" height="500" margin-right="100px" src="https://raw.githubusercontent.com/yudiaguena/Android-apps/main/app-repositories/screenshot/Screenshot_20210924-164946_App%20Repositories.jpg">
+<img align="left" width="250" height="500" margin-right="100px" src="https://github.com/yudiaguena/Android-apps/blob/main/app-repositories/screenshot/Screenshot_20210924-165451_App%20Repositories.jpg">
+<img align="left" width="250" height="500" margin-right="100px" src="https://github.com/yudiaguena/Android-apps/blob/main/app-repositories/screenshot/Screenshot_20210924-165505_App%20Repositories.jpg">
+<img align="left" width="250" height="500" margin-right="100px" src="https://github.com/yudiaguena/Android-apps/blob/main/app-repositories/screenshot/Screenshot_20210924-165521_App%20Repositories.jpg">
